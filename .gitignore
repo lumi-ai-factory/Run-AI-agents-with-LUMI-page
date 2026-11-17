@@ -33,3 +33,7 @@ dist-ssr
 
 # Agent instructions (local only)
 CLAUDE.md
+
+# Generated from the workshop repo by scripts/sync-workshop.ts (edit the workshop repo instead)
+content/
+.workshop/
